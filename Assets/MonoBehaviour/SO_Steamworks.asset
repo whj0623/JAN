@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1930599577, guid: 091d896224f6e9a855fbff0c8bcf0706, type: 3}
+  m_Name: SO_Steamworks
+  m_EditorClassIdentifier:
+  applicationId:
+    m_AppId: 1485080
+  isDebugging: 1
+  server:
+    autoInitialize: 0
+    autoLogon: 0
+    ip: 0
+    queryPort: 27016
+    gamePort: 27015
+    serverVersion: 1.0.0.0
+    spectatorPort: 27017
+    serverId:
+      m_SteamID: 0
+    usingGameServerAuthApi: 0
+    enableHeartbeats: 0
+    supportSpectators: 0
+    spectatorServerName: Usually GameDescription + Spectator
+    anonymousServerLogin: 0
+    gameServerToken: See https://steamcommunity.com/dev/managegameservers
+    isPasswordProtected: 0
+    serverName: My Server Name
+    gameDescription: Usually the name of your game
+    gameDirectory: e.g. its folder name
+    isDedicated: 0
+    maxPlayerCount: 4
+    botPlayerCount: 0
+    mapName:
+    gameData:
+    rulePairs: []
+    disconnected:
+      m_PersistentCalls:
+        m_Calls: []
+    connected:
+      m_PersistentCalls:
+        m_Calls: []
+    failure:
+      m_PersistentCalls:
+        m_Calls: []
+  client:
+    actionSets: []
+    actionSetLayers: []
+    actions: []
+    inventory:
+      items: []
+      runTimeUpdateItemDefinitions: 0
+  stats:
+  - {fileID: 11400000, guid: 204ba77ab5a5b5047b08e7809d8bf5ed, type: 2}
+  - {fileID: 11400000, guid: 68c081e59e48e8348bee3b3c72620b7f, type: 2}
+  - {fileID: 11400000, guid: cffa6c3b5534d914a85de9719acedb7c, type: 2}
+  - {fileID: 11400000, guid: 6bdfb2caad512574bbb6d862597d6059, type: 2}
+  - {fileID: 11400000, guid: abf030ec016754a42a459716af57ac4e, type: 2}
+  - {fileID: 11400000, guid: 04f3faf08419fa440809f421cc146852, type: 2}
+  - {fileID: 11400000, guid: 94ffac2590deca046a975ca74a575131, type: 2}
+  - {fileID: 11400000, guid: aaee4472aaec00449b5c99e5c06f73c7, type: 2}
+  - {fileID: 11400000, guid: bf6f88b6d318b984eadda2e0a2ad7200, type: 2}
+  - {fileID: 11400000, guid: c32c2730d558cde4ab19d6057088d07e, type: 2}
+  - {fileID: 11400000, guid: b1bec186a49e7e145a7f5123c230ec70, type: 2}
+  - {fileID: 11400000, guid: fef0821f34ce37e4db4a83270ffcd998, type: 2}
+  - {fileID: 11400000, guid: a83803da6d33f9a4e9ee2b303e1b4357, type: 2}
+  - {fileID: 11400000, guid: 416753fd738385b41931905ccb25a8a6, type: 2}
+  - {fileID: 11400000, guid: 43473444f33420847a5bb180ac3909bc, type: 2}
+  achievements:
+  - {fileID: 11400000, guid: db2ad4f7362c08b4ea6d8758c3bf11c4, type: 2}
+  - {fileID: 11400000, guid: 970855431fb906a4f8d8d4f05ef00f62, type: 2}
+  - {fileID: 11400000, guid: 60ee9408cc1e0884ab97e6068aa9591f, type: 2}
+  - {fileID: 11400000, guid: c08f0fffb578c95459279125071cefb8, type: 2}
+  - {fileID: 11400000, guid: 3cb7c81b05f2e584b9dd3218059e4781, type: 2}
+  - {fileID: 11400000, guid: b07fcfa3bb131604ca1557945e780507, type: 2}
+  - {fileID: 11400000, guid: 9035777de9575f345b9ef9db03f32ee3, type: 2}
+  - {fileID: 11400000, guid: cac5b763c5a525147be938bee7008c49, type: 2}
+  - {fileID: 11400000, guid: 57921f84080f4fd4eb3fc8e6a3684791, type: 2}
+  - {fileID: 11400000, guid: 449e60f7874ca2e4a9648514759354b1, type: 2}
+  - {fileID: 11400000, guid: c1dc69c3fc1d60f4fa285af417f88040, type: 2}
+  - {fileID: 11400000, guid: 63753be96f009334c930073568bee985, type: 2}
+  - {fileID: 11400000, guid: 1e94531b3d8599d44b6c8da8faa06200, type: 2}
+  - {fileID: 11400000, guid: 60d89186dcd30cc46844f6f3897bcd73, type: 2}
+  - {fileID: 11400000, guid: 39263b0af6e08604c96d6a0d851fcd20, type: 2}
+  - {fileID: 11400000, guid: f37e53cddd6359744acdc177badaabb9, type: 2}
+  - {fileID: 11400000, guid: 4b3c9d3fd1fff534d93f18f4448f9d12, type: 2}
+  - {fileID: 11400000, guid: ada1e0f59f509aa498939f142e7f5555, type: 2}
+  - {fileID: 11400000, guid: dfb3df2c7b70e5945af9954db2309796, type: 2}
+  - {fileID: 11400000, guid: 8e098b5703be07545a31c4bad897e654, type: 2}
+  - {fileID: 11400000, guid: 2e2f6d8ec0163c041a6a70db541dc4c7, type: 2}
+  - {fileID: 11400000, guid: 187feeed5944e6e40abb2858f11a0060, type: 2}
+  - {fileID: 11400000, guid: 134ac5d86cf06f541a641f6e519b298f, type: 2}
+  - {fileID: 11400000, guid: 4550066214e25f54d900485268315391, type: 2}
+  - {fileID: 11400000, guid: a8dca825ef548114a8211e868b7dbbd0, type: 2}
+  - {fileID: 11400000, guid: 9c4c538ecface7f40b8842533b00a9b7, type: 2}
+  - {fileID: 11400000, guid: db1d2fd0fdd0a5841b3c372ecdf5069f, type: 2}
+  - {fileID: 11400000, guid: 20a52d3d20a93de498074df68e86f459, type: 2}
+  - {fileID: 11400000, guid: 51eb95d81ddb3fd4b990eae4d6ace1ee, type: 2}
+  - {fileID: 11400000, guid: 5c11d0a9b3694574f9a3a14f2a856f17, type: 2}
+  dlc:
+  - {fileID: 11400000, guid: a3b2951ea1cc97441a73b86a8787500e, type: 2}
+  - {fileID: 11400000, guid: 15e07a7a8e9e0c949ba07bfb16c0b44a, type: 2}
+  leaderboards: []
+  evtSteamInitialized:
+    m_PersistentCalls:
+      m_Calls: []
+  evtSteamInitializationError:
+    m_PersistentCalls:
+      m_Calls: []

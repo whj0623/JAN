@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2099961501, guid: e161fae64b898bc22624d03ed611378f, type: 3}
+  m_Name: SO_PostProcessingWinnerScreen
+  m_EditorClassIdentifier:
+  settings:
+  - {fileID: 11400000, guid: 0857b1d0bcabc6640b1fde3bc88563cd, type: 2}
+  - {fileID: 11400000, guid: de949b047d07d6449a711614a2087572, type: 2}
+  - {fileID: 11400000, guid: 7a1598990d8b88a4889a3576d356b821, type: 2}
+  - {fileID: 11400000, guid: 726640e2b70f7354b92f98a39a41f8ed, type: 2}
+  - {fileID: 11400000, guid: ae4a4290f61ae184989c06435da1d6c5, type: 2}
+  - {fileID: 11400000, guid: 19ed6eb57d865aa4089bd3776aebb835, type: 2}
+  - {fileID: 11400000, guid: b335dd2c94e6c6846878ceb3e5b82785, type: 2}
+  - {fileID: 11400000, guid: d5a0b194e91f6594d9e191c039ae2f8b, type: 2}

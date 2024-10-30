@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfc5bc7a3863922bc8c10134c10d0e19, type: 3}
+  m_Name: Unlockable_Skin_Hat_BunnyEars
+  m_EditorClassIdentifier:
+  DisplayIcon: {fileID: 21300000, guid: b842230bc13ed5b4fba53b6421387027, type: 2}
+  ItemID: 4
+  Guide: Earn 2000 XP points
+  Unlockable: 1
+  Access: 0
+  Condition: 3
+  UnlockedDefault: 0
+  AchievementData: {fileID: 11400000, guid: db1d2fd0fdd0a5841b3c372ecdf5069f, type: 2}
+  TargetValue: 2000

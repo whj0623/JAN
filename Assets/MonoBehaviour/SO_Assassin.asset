@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2099961501, guid: e161fae64b898bc22624d03ed611378f, type: 3}
+  m_Name: SO_Assassin
+  m_EditorClassIdentifier:
+  settings:
+  - {fileID: 11400000, guid: fc34520aed7fa52488fd6cebbe12a9fc, type: 2}
+  - {fileID: 11400000, guid: a9ecc08b03c2d714e86a76b2b0823a4c, type: 2}
+  - {fileID: 11400000, guid: 1fa2aa257879e464d848214a4838ffec, type: 2}
+  - {fileID: 11400000, guid: b62c59362ecdbc041a4112fb2985ef0a, type: 2}
+  - {fileID: 11400000, guid: aa69467ba9956b44981d12e4a97ba560, type: 2}
+  - {fileID: 11400000, guid: e53810a349e28c04a8ded0bee898c108, type: 2}

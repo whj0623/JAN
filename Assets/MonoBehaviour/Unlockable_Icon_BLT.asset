@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfc5bc7a3863922bc8c10134c10d0e19, type: 3}
+  m_Name: Unlockable_Icon_BLT
+  m_EditorClassIdentifier:
+  DisplayIcon: {fileID: 21300000, guid: a0a84c8c5b8336c41b569f960d36012c, type: 2}
+  ItemID: 41
+  Guide: Survive as Bread until the end of the round in a 'Goose on the Loose' game with at least 5 players.
+  Unlockable: 0
+  Access: 0
+  Condition: 4
+  UnlockedDefault: 0
+  AchievementData: {fileID: 11400000, guid: 51eb95d81ddb3fd4b990eae4d6ace1ee, type: 2}
+  TargetValue: 100

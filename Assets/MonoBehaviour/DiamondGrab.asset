@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a988ef1936bfc28eca5a2b44f151ff8f, type: 3}
+  m_Name: DiamondGrab
+  m_EditorClassIdentifier:
+  gameMode: 0
+  gameModeName: Diamond Grab
+  gameModeDesccription: Collect Diamonds across the map without revealing yourself as a human player to the Seeker above.
+  hiderInstructions:
+  - Collect <color=#6BD1FF>DIAMONDS
+  - 'Act like an NPC to avoid detection from the <color=#FF8B8B>SEEKER</color>.  '
+  - Use <color=#6BD1FF>ITEMS</color> to help avoid detection
+  hiderInstructionIcons:
+  - {fileID: 21300000, guid: 97d60441a21688e44b92cd95a52d7d4e, type: 2}
+  - {fileID: 21300000, guid: 671664acb4a96d341ba6436d7e5f6949, type: 2}
+  - {fileID: 21300000, guid: 89f81d8c88952664e915e35b09065916, type: 2}
+  seekerInstructions:
+  - Shoot the  <color=#6BD1FF>HIDER PLAYERS</color> among the NPCS below
+  - 'Hiders are after the <color=#6BD1FF>DIAMONDS</color> below. '
+  - Use <color=#6BD1FF>ITEMS</color> to help find the Hiders
+  seekerInstructionIcons:
+  - {fileID: 21300000, guid: 671664acb4a96d341ba6436d7e5f6949, type: 2}
+  - {fileID: 21300000, guid: 97d60441a21688e44b92cd95a52d7d4e, type: 2}
+  - {fileID: 21300000, guid: 8ca95f4483372104a838c6e3ddf92767, type: 2}
+  hiderClips:
+  - {fileID: 32900000, guid: c457ce35edc25f84fb0b83b9112584c0, type: 3}
+  - {fileID: 32900000, guid: 778827cbf4f99a74e8a801d59564c98f, type: 3}
+  - {fileID: 32900000, guid: 7ccdb07e997b875478246492a013b93f, type: 3}
+  seekerClips:
+  - {fileID: 32900000, guid: 778827cbf4f99a74e8a801d59564c98f, type: 3}
+  - {fileID: 32900000, guid: c457ce35edc25f84fb0b83b9112584c0, type: 3}
+  - {fileID: 32900000, guid: 4df1085ad93a6d24cb719461f78ba7a9, type: 3}
+  gameModeIcon: {fileID: 21300000, guid: 5e96a4cc58a82d449ab29b69f5f2cf15, type: 2}

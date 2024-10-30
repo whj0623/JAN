@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a988ef1936bfc28eca5a2b44f151ff8f, type: 3}
+  m_Name: KillTheKing
+  m_EditorClassIdentifier:
+  gameMode: 2
+  gameModeName: Kill The King
+  gameModeDesccription: Seeker must protect the King and his nobles from the assassins hidden in the crowd.
+  hiderInstructions:
+  - All <color=#6BD1FF>HIDERS</color> are on a team.
+  - '<color=#6BD1FF>STAB</color> the NPC <color=#FF8B8B>KING</color> and his  <color=#FF8B8B>NOBLES</color> to win.'
+  - Free shot <color=#6BD1FF>HIDERS</color> from <color=#6BD1FF>JAIL</color>.
+  hiderInstructionIcons:
+  - {fileID: 21300000, guid: 6e4112b36a392f64294811235a6448f4, type: 2}
+  - {fileID: 21300000, guid: c5ceb45dd97420046af4ae67cb0d522c, type: 2}
+  - {fileID: 21300000, guid: fb7469cfe675e0647948a14850ddb957, type: 2}
+  seekerInstructions:
+  - Keep the <color=#6BD1FF>KING</color> or any <color=#6BD1FF>NOBLE</color> alive until the end of the round.
+  - You don't lose points for shooting NPCS. Shot NPCS respawn.
+  - Prevent any <color=#6BD1FF>HIDERS</color> from opening the <color=#6BD1FF>JAIL</color>.
+  seekerInstructionIcons:
+  - {fileID: 21300000, guid: c5ceb45dd97420046af4ae67cb0d522c, type: 2}
+  - {fileID: 21300000, guid: 3fefbe0b0cd1e944aacdfbd529f8c53e, type: 2}
+  - {fileID: 21300000, guid: fb7469cfe675e0647948a14850ddb957, type: 2}
+  hiderClips:
+  - {fileID: 32900000, guid: 957a7f0a31bddb24fb8b17714f48e273, type: 3}
+  - {fileID: 32900000, guid: d8d72a4820714984ab582e58e87bdb3b, type: 3}
+  - {fileID: 32900000, guid: 370920714c3bbe8419b3975a1a9e0f05, type: 3}
+  seekerClips:
+  - {fileID: 32900000, guid: 2751ebe72bd233e4aa8461a835a1f720, type: 3}
+  - {fileID: 32900000, guid: 3c67a2b9527064441825a0ef2ad6383a, type: 3}
+  - {fileID: 32900000, guid: 6a943436d2fbaf64ca33db5ad2f7f115, type: 3}
+  gameModeIcon: {fileID: 21300000, guid: 1d71c5ebca112724da58e81d035457ed, type: 2}

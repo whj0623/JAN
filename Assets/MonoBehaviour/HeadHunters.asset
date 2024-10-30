@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a988ef1936bfc28eca5a2b44f151ff8f, type: 3}
+  m_Name: HeadHunters
+  m_EditorClassIdentifier:
+  gameMode: 7
+  gameModeName: Head Hunters
+  gameModeDesccription: Hiders get points for wearing the sheriff hat. Other hiders try to steal the hat, all while The Seeker watches from above..(3+ players only)
+  hiderInstructions:
+  - Earn points by wearing the <color=#6BD1FF>SHERIFF HAT</color>
+  - Kill the Sheriff to <color=#6BD1FF>STEAL</color> the hat
+  - Watch out for the <color=#6BD1FF>SEEKER</color> above
+  hiderInstructionIcons:
+  - {fileID: 21300000, guid: dc90e8684493482469ad088afe1f1efe, type: 2}
+  - {fileID: 21300000, guid: 778f20501d5c36248bddd5f662a05779, type: 2}
+  - {fileID: 21300000, guid: 671664acb4a96d341ba6436d7e5f6949, type: 2}
+  seekerInstructions:
+  - Shoot <color=#6BD1FF>HIDERS</color> below.
+  - Hiders are fighting for control of the <color=#6BD1FF>SHERIFF HAT</color>
+  - Every 15 seconds, there's a <color=#6BD1FF>HINT</color> of the <color=#6BD1FF>HAT</color>'s  position.
+  seekerInstructionIcons:
+  - {fileID: 21300000, guid: 3fefbe0b0cd1e944aacdfbd529f8c53e, type: 2}
+  - {fileID: 21300000, guid: dc90e8684493482469ad088afe1f1efe, type: 2}
+  - {fileID: 21300000, guid: f8084cb42fe209f4ea5a32be720ea037, type: 2}
+  hiderClips:
+  - {fileID: 32900000, guid: 4311f7f67fd8de64f822c3cef3452581, type: 3}
+  - {fileID: 32900000, guid: d412009608645574ab8ccba8bd7f66d4, type: 3}
+  - {fileID: 32900000, guid: 329e71c1561b10e4b9e1584e37f4fb43, type: 3}
+  seekerClips:
+  - {fileID: 32900000, guid: 329e71c1561b10e4b9e1584e37f4fb43, type: 3}
+  - {fileID: 32900000, guid: d412009608645574ab8ccba8bd7f66d4, type: 3}
+  - {fileID: 32900000, guid: a0892e32d90b84d4d8a293b5bec83314, type: 3}
+  gameModeIcon: {fileID: 21300000, guid: 13b2deefe63c1664ab780c2bb76f920e, type: 2}

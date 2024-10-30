@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a988ef1936bfc28eca5a2b44f151ff8f, type: 3}
+  m_Name: BrebVsGoose
+  m_EditorClassIdentifier:
+  gameMode: 8
+  gameModeName: Goose on the Loose
+  gameModeDesccription: Players collect coins as bread while a rogue goose hunts them down. Players eaten by the goose become goose themselves!
+  hiderInstructions:
+  - You are  <color=#6BD1FF>Bread</color>.
+  - Collect <color=#6BD1FF>COINS</color> for points.
+  - You will recieve a warning when the<color=#FF8B8B>KILLER GOOSE</color> is nearby...
+  hiderInstructionIcons:
+  - {fileID: 21300000, guid: af24040cbc2db8a49a38037067a1e0ef, type: 2}
+  - {fileID: 21300000, guid: 21f7401694dcf6c4581fe9b2101abcc9, type: 2}
+  - {fileID: 21300000, guid: 75db111ab3839534db8f39a6d896d224, type: 2}
+  seekerInstructions:
+  - You are the  <color=#FF8B8B>KILLER GOOSE</color>.
+  - Blend in with Goose NPCs to sneak up and eat the <color=#6BD1FF>BREAD</color> players.
+  - Any <color=#6BD1FF>BREAD</color> players you eat will become a Goose.
+  seekerInstructionIcons:
+  - {fileID: 21300000, guid: 75db111ab3839534db8f39a6d896d224, type: 2}
+  - {fileID: 21300000, guid: 3fefbe0b0cd1e944aacdfbd529f8c53e, type: 2}
+  - {fileID: 21300000, guid: af24040cbc2db8a49a38037067a1e0ef, type: 2}
+  hiderClips:
+  - {fileID: 32900000, guid: fdc516973770dd64fbde346abeab4f3c, type: 3}
+  - {fileID: 32900000, guid: cb56fb5453df4054bbfccd25e3676a40, type: 3}
+  - {fileID: 32900000, guid: 876ffd63a9a7d524e9b4ce763ff62287, type: 3}
+  seekerClips:
+  - {fileID: 32900000, guid: eecb6b8edf6ef64418f5c0c19e6c3527, type: 3}
+  - {fileID: 32900000, guid: 876ffd63a9a7d524e9b4ce763ff62287, type: 3}
+  - {fileID: 32900000, guid: e7206a389fa1c924cbc1df1e008f368c, type: 3}
+  gameModeIcon: {fileID: 21300000, guid: 958e2afa8bed61448b3a0be6b1455f3b, type: 2}

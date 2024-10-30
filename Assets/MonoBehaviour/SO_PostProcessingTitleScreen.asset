@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2099961501, guid: e161fae64b898bc22624d03ed611378f, type: 3}
+  m_Name: SO_PostProcessingTitleScreen
+  m_EditorClassIdentifier:
+  settings:
+  - {fileID: 11400000, guid: e24b51ec5bdf3034c8bf67322424d03e, type: 2}
+  - {fileID: 11400000, guid: 8b5353146295c7b4db46809cc7b98687, type: 2}
+  - {fileID: 11400000, guid: 2e77305fcb6ebda47b92410caf59fba8, type: 2}
+  - {fileID: 11400000, guid: 1434445559065ae4588dd5ba49966166, type: 2}
+  - {fileID: 11400000, guid: 62e167151deb6cd48b73c59a6579f227, type: 2}
+  - {fileID: 11400000, guid: db987f50ab32e8d4b9bceccbaf3326a9, type: 2}
+  - {fileID: 11400000, guid: c39fe347df2702042bcd97cb24aaf281, type: 2}
+  - {fileID: 11400000, guid: 6508207cfc8167541a0d4c6e1032d0d5, type: 2}

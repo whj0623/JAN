@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a988ef1936bfc28eca5a2b44f151ff8f, type: 3}
+  m_Name: Scavengers
+  m_EditorClassIdentifier:
+  gameMode: 6
+  gameModeName: Scavengers
+  gameModeDesccription: Everyone is a Hider. Collect all fruit types while knocking out other players.
+  hiderInstructions:
+  - 'Everyone is a  \n<color=#6BD1FF>HIDER </color> '
+  - Win by collecting all four fruit types
+  - Knock out other players with your melee weapon.
+  hiderInstructionIcons:
+  - {fileID: 21300000, guid: 6e4112b36a392f64294811235a6448f4, type: 2}
+  - {fileID: 21300000, guid: d545113a6cd46a2498e1dc698831e055, type: 2}
+  - {fileID: 21300000, guid: 0253ffcc08e57c847bdc90da6bd0021d, type: 2}
+  seekerInstructions:
+  - 
+  - 
+  - 
+  seekerInstructionIcons:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  hiderClips:
+  - {fileID: 32900000, guid: 0c78b25bf852b0a4ab7c0eccae61adfc, type: 3}
+  - {fileID: 32900000, guid: ec543838d76cc18448991b5d40d990f7, type: 3}
+  - {fileID: 32900000, guid: f2f136ef2bbc1bd45a159f40c3d14818, type: 3}
+  seekerClips:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  gameModeIcon: {fileID: 21300000, guid: 82e84d99efa1dd34687df1b26d49e85e, type: 2}

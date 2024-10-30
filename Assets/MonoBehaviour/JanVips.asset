@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2709923a0d0562201ec1c8f361e8b347, type: 3}
+  m_Name: JanVips
+  m_EditorClassIdentifier:
+  SteamVIPs:
+  - Name: Lee
+    ID: 76561198134330883
+  - Name: conor
+    ID: 76561198132366765
+  - Name: nick g
+    ID: 76561198032975054
+  - Name: dima
+    ID: 76561198070645828
+  - Name: j45sal
+    ID: 76561198136829634
+  - Name: ace
+    ID: 76561198037403356
+  - Name: briess
+    ID: 76561198121334440
+  - Name: decoded
+    ID: 76561198857204568
+  - Name: kittenred
+    ID: 76561199067943354
+  - Name: nbrx
+    ID: 76561198388957841
+  - Name: DDBR
+    ID: 76561199102473036
+  - Name: consumer of water
+    ID: 76561198141761265
+  - Name: tomato
+    ID: 76561198110634749
+  - Name: Loleg
+    ID: 76561199183373059
+  - Name: petor
+    ID: 76561198328925547
+  - Name: pencil
+    ID: 76561198324774973
+  - Name: quis nawar
+    ID: 76561199152362534
+  - Name: oka
+    ID: 76561199027417650
+  - Name: mar
+    ID: 76561199102526099
+  - Name: karmuh
+    ID: 76561198893358308
+  - Name: Jack
+    ID: 76561198231444356
+  - Name: anooying ape
+    ID: 76561198169334048
+  - Name: dude
+    ID: 76561199179705544
+  - Name: pre occupied
+    ID: 76561198204343615
+  - Name: Capsik
+    ID: 76561198073532435
+  - Name: BigMan
+    ID: 76561198844399391
+  - Name: Bagui
+    ID: 76561199090311249
+  - Name: Tom
+    ID: 76561199002752815
+  - Name: mariachi
+    ID: 76561199095563630
+  - Name: snoopy
+    ID: 76561198077903264
+  - Name: MrMeseeks
+    ID: 76561199056268308
+  - Name: RageTheLegend
+    ID: 76561199098434799
+  - Name: Tom
+    ID: 76561199002752815
+  - Name: Leaves
+    ID: 76561198251694678
+  - Name: peter
+    ID: 76561198128733774
+  - Name: chrisbchicken
+    ID: 76561198361862645
+  - Name: FireMeLego
+    ID: 76561198845019424
+  - Name: Zoo
+    ID: 76561198079500524
+  - Name: Forg
+    ID: 76561199139619358
+  - Name: Hannah
+    ID: 76561198284992688
+  - Name: bobstivle
+    ID: 76561199080935981
+  - Name: victin
+    ID: 76561198797852825
+  - Name: ian
+    ID: 76561198804897963
+  - Name: sageEmp
+    ID: 76561198359539493
+  - Name: Lust
+    ID: 76561198291362525
+  - Name: MrGeorge
+    ID: 76561199017148280
+  - Name: Causic
+    ID: 76561199100093277
+  - Name: ghostdog
+    ID: 76561199127354492
+  - Name: MrGnomed
+    ID: 76561199100820478
+  - Name: Brent
+    ID: 76561198026001919
+  - Name: Nikkommori
+    ID: 76561199066329035
+  - Name: ComicCans
+    ID: 76561198125910514
+  - Name: ScottYt
+    ID: 76561199099811425
+  - Name: CatNation
+    ID: 76561199128372213
+  - Name: CalebK
+    ID: 76561198277987687
+  - Name: BrebMan
+    ID: 76561199229872511
+  - Name: hydraxst
+    ID: 76561199104946646
+  - Name: Lilyth
+    ID: 76561198820712509
+  - Name: farjow
+    ID: 76561199176457417

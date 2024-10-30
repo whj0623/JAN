@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 693dd64ba3486c6309d52353f7d12cc5, type: 3}
+  m_Name: SO_GameData
+  m_EditorClassIdentifier:
+  isDeveloperMode: 0
+  testNet: 0
+  currentBuildIndex: 1.7.2
+  testNetID: 79286e92-9634-4bcd-b0fc-b6dd82a87610
+  mainNetID: 5f6a24b8-2268-4bf4-828a-9a90bc33262a
+  isPremiumBuild: 0
+  weeklyFreeGameMode: {fileID: 11400000, guid: 91283818d0fb266448cf10ee17fcdc9a, type: 2}
+  DLC_Museum: 0

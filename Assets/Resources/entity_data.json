@@ -1,0 +1,244 @@
+[
+  {
+    "name": "P_Entity_GameSettings",
+    "entityComponents": [
+      {
+        "prefabId": {
+          "Value": 1
+        },
+        "serializerId": {
+          "id": "a5bf86bf-02fa-423a-9de8-da650bcb1a2b"
+        },
+        "updateRate": 1,
+        "clientPredicted": true,
+        "allowInstantiateOnClient": true,
+        "persistThroughSceneLoads": true,
+        "sceneObjectDestroyOnDetach": true,
+        "sceneObjectAutoAttach": true
+      }
+    ],
+    "entityHitboxes": [],
+    "childItems": []
+  },
+  {
+    "name": "P_Entity_Item",
+    "entityComponents": [
+      {
+        "prefabId": {
+          "Value": 2
+        },
+        "serializerId": {
+          "id": "7544a183-5bac-40c6-b4dd-07bc6d90bc14"
+        },
+        "updateRate": 1,
+        "clientPredicted": true,
+        "allowInstantiateOnClient": true,
+        "sceneObjectDestroyOnDetach": true,
+        "sceneObjectAutoAttach": true
+      }
+    ],
+    "entityHitboxes": [],
+    "childItems": []
+  },
+  {
+    "name": "P_Entity_Player_Hider",
+    "entityComponents": [
+      {
+        "prefabId": {
+          "Value": 3
+        },
+        "serializerId": {
+          "id": "e60736ed-f60b-4671-b5d7-b0162892813b"
+        },
+        "updateRate": 1,
+        "clientPredicted": true,
+        "allowInstantiateOnClient": true,
+        "sceneObjectDestroyOnDetach": true,
+        "sceneObjectAutoAttach": true
+      }
+    ],
+    "entityHitboxes": [],
+    "childItems": []
+  },
+  {
+    "name": "P_Entity_Player_Seeker",
+    "entityComponents": [
+      {
+        "prefabId": {
+          "Value": 4
+        },
+        "serializerId": {
+          "id": "44c98652-c011-4be3-88a5-e7579428c022"
+        },
+        "updateRate": 1,
+        "clientPredicted": true,
+        "allowInstantiateOnClient": true,
+        "sceneObjectDestroyOnDetach": true,
+        "sceneObjectAutoAttach": true
+      }
+    ],
+    "entityHitboxes": [],
+    "childItems": []
+  },
+  {
+    "name": "P_Entity_Celebrity",
+    "entityComponents": [
+      {
+        "prefabId": {
+          "Value": 5
+        },
+        "serializerId": {
+          "id": "51e3ac00-635c-4a30-adec-36a5f6a70a40"
+        },
+        "updateRate": 1,
+        "clientPredicted": true,
+        "allowInstantiateOnClient": true,
+        "sceneObjectDestroyOnDetach": true,
+        "sceneObjectAutoAttach": true
+      }
+    ],
+    "entityHitboxes": [],
+    "childItems": []
+  },
+  {
+    "name": "P_Entity_King",
+    "entityComponents": [
+      {
+        "prefabId": {
+          "Value": 6
+        },
+        "serializerId": {
+          "id": "51e3ac00-635c-4a30-adec-36a5f6a70a40"
+        },
+        "updateRate": 1,
+        "clientPredicted": true,
+        "allowInstantiateOnClient": true,
+        "sceneObjectDestroyOnDetach": true,
+        "sceneObjectAutoAttach": true
+      }
+    ],
+    "entityHitboxes": [],
+    "childItems": []
+  },
+  {
+    "name": "P_Entity_LobbyDummy",
+    "entityComponents": [
+      {
+        "prefabId": {
+          "Value": 7
+        },
+        "serializerId": {
+          "id": "8a611237-1992-4142-acc7-c0cf67ea1b92"
+        },
+        "updateRate": 1,
+        "clientPredicted": true,
+        "allowInstantiateOnClient": true,
+        "sceneObjectDestroyOnDetach": true,
+        "sceneObjectAutoAttach": true
+      }
+    ],
+    "entityHitboxes": [],
+    "childItems": []
+  },
+  {
+    "name": "P_Entity_Noble",
+    "entityComponents": [
+      {
+        "prefabId": {
+          "Value": 8
+        },
+        "serializerId": {
+          "id": "51e3ac00-635c-4a30-adec-36a5f6a70a40"
+        },
+        "updateRate": 1,
+        "clientPredicted": true,
+        "allowInstantiateOnClient": true,
+        "sceneObjectDestroyOnDetach": true,
+        "sceneObjectAutoAttach": true
+      }
+    ],
+    "entityHitboxes": [],
+    "childItems": []
+  },
+  {
+    "name": "P_Entity_NPC",
+    "entityComponents": [
+      {
+        "prefabId": {
+          "Value": 9
+        },
+        "serializerId": {
+          "id": "51e3ac00-635c-4a30-adec-36a5f6a70a40"
+        },
+        "updateRate": 1,
+        "clientPredicted": true,
+        "allowInstantiateOnClient": true,
+        "sceneObjectDestroyOnDetach": true,
+        "sceneObjectAutoAttach": true
+      }
+    ],
+    "entityHitboxes": [],
+    "childItems": []
+  },
+  {
+    "name": "P_Entity_NPC_Assassins",
+    "entityComponents": [
+      {
+        "prefabId": {
+          "Value": 10
+        },
+        "serializerId": {
+          "id": "51e3ac00-635c-4a30-adec-36a5f6a70a40"
+        },
+        "updateRate": 1,
+        "clientPredicted": true,
+        "allowInstantiateOnClient": true,
+        "sceneObjectDestroyOnDetach": true,
+        "sceneObjectAutoAttach": true
+      }
+    ],
+    "entityHitboxes": [],
+    "childItems": []
+  },
+  {
+    "name": "P_Entity_Player",
+    "entityComponents": [
+      {
+        "prefabId": {
+          "Value": 11
+        },
+        "serializerId": {
+          "id": "90ac2de4-f7ae-41e3-9deb-4d87c6c94be3"
+        },
+        "updateRate": 1,
+        "clientPredicted": true,
+        "allowInstantiateOnClient": true,
+        "persistThroughSceneLoads": true,
+        "sceneObjectDestroyOnDetach": true,
+        "sceneObjectAutoAttach": true
+      }
+    ],
+    "entityHitboxes": [],
+    "childItems": []
+  },
+  {
+    "name": "P_UI_Lobby_LobbyEntity",
+    "entityComponents": [
+      {
+        "prefabId": {
+          "Value": 12
+        },
+        "serializerId": {
+          "id": "8a611237-1992-4142-acc7-c0cf67ea1b92"
+        },
+        "updateRate": 1,
+        "clientPredicted": true,
+        "allowInstantiateOnClient": true,
+        "sceneObjectDestroyOnDetach": true,
+        "sceneObjectAutoAttach": true
+      }
+    ],
+    "entityHitboxes": [],
+    "childItems": []
+  }
+]
